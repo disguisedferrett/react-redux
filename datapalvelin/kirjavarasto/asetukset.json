@@ -1,0 +1,7 @@
+{
+    "varastotiedosto":"kirjat.json",
+    "perusavain":"id",
+    "hakuavaimet":["id", "nimi", "tekijä", "hinta", "kuvaus", "kuva"],
+    "resurssi":"kirjat",
+    "kuvakansio":"kuvat"
+}

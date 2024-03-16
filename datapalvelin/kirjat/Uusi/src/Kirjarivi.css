@@ -1,0 +1,8 @@
+.Kirjaririvi img{
+    width:40px;
+}
+
+.Kirjarivi td{
+    border:solid black 1px;
+    padding:2px;
+}

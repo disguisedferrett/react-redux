@@ -1,0 +1,82 @@
+[
+    {
+      "tuoteID": 1,
+      "merkki": "Future 2025",
+      "tyyppi": "jääkaappi",
+      "hinta": 36,
+      "valmistaja": "Vempain oy",
+      "värit": [
+        "valkoinen",
+        "vihreä",
+        "oranssi"
+      ],
+      "lisätiedot": {
+        "kulutus": "A++",
+        "kommentti": "vanha malli",
+        "malli": "chrome"
+      }
+    },
+    {
+      "tuoteID": 2,
+      "merkki": "MaxEffect 2000",
+      "tyyppi": "imuri",
+      "hinta": 200,
+      "valmistaja": "Koje oy",
+      "värit": [
+        "vihreä",
+        "musta",
+        "sininen"
+      ],
+      "lisätiedot": {
+        "kulutus": "E",
+        "kommentti": "ei kommentteja",
+        "malli": "GT"
+      }
+    },
+    {
+      "tuoteID": 3,
+      "merkki": "E-lux S34",
+      "tyyppi": "silitysrauta",
+      "hinta": 36,
+      "valmistaja": "Vempain oy",
+      "värit": [
+        "musta",
+        "oranssi",
+        "valkoinen"
+      ],
+      "lisätiedot": {
+        "kulutus": "B",
+        "kommentti": "-",
+        "malli": "XL"
+      }
+    },
+    {
+      "tuoteID": 4,
+      "merkki": "Luuri S43",
+      "tyyppi": "silitysrauta",
+      "hinta": 300,
+      "valmistaja": "Leila Hökki oy",
+      "värit": [
+        "vihreä",
+        "musta",
+        "punainen"
+      ],
+      "lisätiedot": {
+        "kulutus": "D",
+        "kommentti": "vanha malli",
+        "malli": "chrome"
+      }
+    },
+    {
+      "tuoteID": 5,
+      "merkki": "Future 2025",
+      "tyyppi": "jääkaappi",
+      "hinta": 36,
+      "valmistaja": "Ralen rele",
+      "värit": [
+        "punainen",
+        "keltainen",
+        "oranssi"
+      ]
+    }
+  ]

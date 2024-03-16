@@ -1,0 +1,30 @@
+[
+    {
+        "tuotenumero":1,
+        "nimi": "Tietokone",
+        "väri": "oranssi",
+        "hinta": 100,
+        "huomautuksia":"ei huomautettavaa"
+    },
+    {
+        "tuotenumero":2,
+        "nimi": "Tietokone",
+        "väri": "musta",
+        "hinta": 99,
+        "huomautuksia":"ei huomautettavaa"
+    },
+    {
+        "tuotenumero":3,
+        "nimi": "Tietokone",
+        "väri": "valkoinen",
+        "hinta": 150,
+        "huomautuksia":"ei huomautettavaa"
+    },
+    {
+        "tuotenumero":1,
+        "nimi": "Tietokone",
+        "väri": "liila",
+        "hinta": 199,
+        "huomautuksia":"Tämä väri on myynnissä vain tietyn ajan ja sitä on rajoitettumäärä."
+    }
+]

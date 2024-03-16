@@ -1,0 +1,7 @@
+{
+    "varastotiedosto":"elokuvat.json",
+    "perusavain":"id",
+    "hakuavaimet":["id", "nimi", "ohjaaja", "vuosi", "tyyppi", "arvosutelu"],
+    "resurssi":"elokuvat",
+    "kuvakansio":"julisteet"
+}

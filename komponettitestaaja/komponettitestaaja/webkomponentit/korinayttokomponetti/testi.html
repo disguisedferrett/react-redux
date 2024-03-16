@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="paaohjelma.js" type="module"></script>
+    <style>
+        div{
+            display:grid;
+            grid-template-columns: auto 1fr;
+            grid-template-rows: auto 1fr;
+        }
+        ostos-kori, p{
+            grid-column: 1 / 2;
+            grid-row: 1 / 2;
+        }
+        p{
+            font-weight: bold;
+            color: blue;
+            font-size:16pt;
+            margin-left:11%;
+            margin-top: 23%;
+            background-color: yellow;
+            width: fit-content;
+            height: fit-content;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <ostos-kori leveys="100" tausta="beige"></ostos-kori>
+        <p id="arvo">10000</p>
+    </div>
+</body>
+</html>

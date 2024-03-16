@@ -1,0 +1,30 @@
+[
+    {
+        "tuotenumero":1,
+        "nimi": "Kaara",
+        "väri": "oranssi",
+        "hinta": 100,
+        "huomautuksia":"ei huomautettavaa"
+    },
+    {
+        "tuotenumero":2,
+        "nimi": "Hoppa",
+        "väri": "musta",
+        "hinta": 99,
+        "huomautuksia":"ei huomautettavaa"
+    },
+    {
+        "tuotenumero":3,
+        "nimi": "E-mBW",
+        "väri": "valkoinen",
+        "hinta": 150,
+        "huomautuksia":"ei huomautettavaa"
+    },
+    {
+        "tuotenumero":1,
+        "nimi": "Bil",
+        "väri": "liila",
+        "hinta": 199,
+        "huomautuksia":"Tämä väri on myynnissä vain tietyn ajan ja sitä on rajoitettumäärä."
+    }
+]

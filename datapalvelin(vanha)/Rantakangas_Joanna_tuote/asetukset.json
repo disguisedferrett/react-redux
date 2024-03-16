@@ -1,0 +1,7 @@
+{
+    "varastotiedosto":"tietovarasto.json",
+    "perusavain":"tuoteID",
+    "hakuavaimet":["tuoteID"],
+    "resurssi":"tuotteet",
+    "kuvakansio":"kuvat"
+}

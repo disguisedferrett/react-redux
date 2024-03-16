@@ -1,0 +1,13 @@
+{
+    "port":3015,
+    "host":"localhost",
+    "kirjasto":{
+        "kansio":"kirjasto",
+        "varastokerros":"varastokerros.js",
+        "varastokasittelija":"varastokasittelija.js"
+    },
+    "varasto":{
+        "kansio":"lukujarjestysvarasto",
+        "asetustiedosto":"asetukset.json"
+    }
+}

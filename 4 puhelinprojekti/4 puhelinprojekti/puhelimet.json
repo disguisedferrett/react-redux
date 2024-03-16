@@ -1,0 +1,20 @@
+[
+    {
+        "etunimi":"Leila",
+        "sukunimi":"Hökki",
+        "puhelimet":[
+            {"tyyppi":"koti", "numero":"12345678" },
+            {"tyyppi":"työ", "numero":"87654321" },
+            {"tyyppi":"työ", "numero":"050403020" }
+        ]
+    },
+    {
+        "etunimi":"Matti",
+        "sukunimi":"Puro",
+        "puhelimet":[
+            {"tyyppi":"työ", "numero":"56789012" },
+            {"tyyppi":"mobiili", "numero":"05012345" },
+            {"tyyppi":"koti", "numero":"987123" }
+        ]
+    }
+]
